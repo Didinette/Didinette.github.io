@@ -64,7 +64,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aurelien"
+  name   : "Blandine"
   avatar : "/assets/images/logo_saturne.png"
   bio    : "On va faire du Pestacle"
 
