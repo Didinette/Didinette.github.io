@@ -17,12 +17,12 @@ title: Aurélieng
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Bonjour
-github_username: aure00
+github_username: Didinette
 logo: /assets/images/logo_saturne.png
 search: true
 
 baseurl: ""
-url: "https://aure00.github.io"
+url: "https://Didinette.github.io"
 
 minimal_mistakes_skin: air
 
