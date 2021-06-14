@@ -64,9 +64,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Blandine"
+  name   : "Didine"
   avatar : "/assets/images/logo_saturne.png"
-  bio    : "On va faire du Pestacle"
+  bio    : "Physique-Chimie"
 
 
 defaults:
