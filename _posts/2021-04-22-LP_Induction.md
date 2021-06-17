@@ -9,3 +9,4 @@ tags:
 
 ---
 [Leçon](/assets/pdf/LP_Induction_auto_induction.pdf)
+{% include pdf src="/assets/pdf/LP_Induction_auto_induction.pdf" %}
