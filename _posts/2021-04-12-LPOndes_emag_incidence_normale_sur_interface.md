@@ -7,7 +7,7 @@ tags:
   - Ondes
 
   - Emag
-  - 
+ 
   - Interface
 
 
@@ -19,3 +19,4 @@ tags:
 -Garing d'électromagnétisme
 
 [Lien vers PDF](/assets/pdf/LP___Ondes__lectromagn_tiques_en_incidence_normale_sur_une_interface.pdf)
+{% include pdf src="/assets/pdf/LP___Ondes__lectromagn_tiques_en_incidence_normale_sur_une_interface.pdf" %}
