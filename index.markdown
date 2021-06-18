@@ -14,3 +14,7 @@ Ajouter des images dans une page :
 crop les images, elles sont centrées au milieu pour l'entête. Dans les autres cas elles seront en entier
 {% endcomment %}
 
+# Sites divers
+
+[Codes Python](https://www.sci-phy.org/agreg)
+
