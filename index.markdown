@@ -18,5 +18,5 @@ crop les images, elles sont centrées au milieu pour l'entête. Dans les autres 
 
 [Codes Python](https://www.sci-phy.org/agreg)
 
-[Site AJ](ajouanp.github.io)
+[Site AJ](https://ajouanp.github.io/)
 
